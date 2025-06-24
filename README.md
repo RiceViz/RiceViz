@@ -1,6 +1,7 @@
-![Cool Space Man](/images/SpaceMan.jpg "Cool Space Man")
+<img src="/images/SpaceMan.jpg" width="200">
 
-# 💫 Hey! Welcome To My GitHub!
+# 💫 Hey! Welcome To My GitHub!                                                                                
+
 I am a software engineer and game developer with a passion for artificial intelligence, gamification, and anything related to space!
 
 I graduated from the University of Delaware with a major in Computer Science and a minor in Mathematics, earning a cumulative GPA of 3.5. Throughout college, I held several leadership roles, including Resident Assistant, co-founder and president of the campus Game Development Club, team leader in the Esports program, and participant in a freshman leadership program. I also competed in multiple hackathons and game jams, earning over $2,000 in awards for my contributions and innovation.
