@@ -1,5 +1,3 @@
-<img src="/images/SpaceMan.jpg" width="200">
-
 # 💫 Hey! Welcome To My GitHub!                                                                                
 
 I am a software engineer and game developer with a passion for artificial intelligence, gamification, and anything related to space!
